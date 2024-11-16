@@ -75,7 +75,7 @@ class JavaProject {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("\nEnter date of birth or Age (Ex: AGE=0054-03-23, DOB=19-05-2005): ");
+        System.out.print("\nEnter date of birth or Age : ");
         String input = sc.nextLine();
 
         System.out.print("\nEnter reference date: ");
